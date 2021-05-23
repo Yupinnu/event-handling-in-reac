@@ -1,2 +1,2 @@
-# event-handling-in-reac
+# event-handling-in-react
 Created with CodeSandbox
